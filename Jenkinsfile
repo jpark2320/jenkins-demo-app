@@ -9,6 +9,7 @@ pipeline {
         echo 'building the application...'
         echo 'build test 1'
         echo 'build test 2'
+        echo 'build test 3'
       }
     }
 
